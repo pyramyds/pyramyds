@@ -76,12 +76,13 @@ Here's a glimpse of the technologies I've worked with and the tools I use:
 </p>
 
 ---
-### 📝 Notes
+### 📝 A Note on My Work & Principles
 
-My repositories are private.
+* **Repositories:** Please note that my repositories are currently private.
 
-My code IS NOT writen/corrected/debugged by AI.
-
-I have a very deep understading on how to work with AI's, i've developped very good prompting skills specific to how each of my favorites and most-efficients LLM's functions, and with every new LLM's models i keep on adapting/refining/improving these skills.
-
-Yet, related to my personnal and professional moral compass, i have to master everything i do WITHOUT the use of AI's. I DO NOT use AI's in any way for ANY professional tasks. In both personal and work environments, AI is a tool the developer has to master, manage and correct, not the other way around.
+* **My Stance on AI in Development:**
+    * I possess a deep understanding of AI systems and have dedicated significant effort to developing advanced prompting skills, tailored to the nuances of various Large Language Models (LLMs). I continuously adapt and refine these abilities as new models and techniques emerge.
+    * However, guided by a strong personal and professional moral compass, I am committed to achieving mastery in my work **without the use of AI for core development tasks.**
+    * Therefore, you can be assured that **all of my code is conceived, written, corrected, and debugged solely by me.** I do not use AI for any of these processes in my professional engagements.
+    * My philosophy is firm: AI should be a tool that developers master, manage, and critically evaluate. It is not, in my view, a substitute for human expertise, problem-solving, or the deep learning that comes from direct engagement with challenges.
+    * Yes, i have used an AI to correct and optimize this README in English to avoid repetitions 😉
