@@ -76,7 +76,7 @@ Here's a glimpse of the technologies I've worked with and the tools I use:
 </p>
 
 ---
-### 📊 Notes
+### 📝 Notes
 
 My repositories are private.
 My code IS NOT writen/corrected/debugged by AI.
