@@ -3,11 +3,9 @@
 </div>
 
 I'm a passionate explorer of programming languages and a versatile developer. I thrive on tackling new challenges, diving deep into problem-solving, and crafting innovative solutions from scratch.
-From automation, problems-sloving programs, full-stack web development, and broad range of home-made tools, i like to dive into every fields until i clearly understand how it works.
+From automation, problems-sloving programs, full-stack web development, and a broad range of (home-made) tools, i like to dive into every fields until i clearly understand how it works.
 
 ⚡ **My Coding Philosophy:** I primarily put my energy and mind into projects that push my boundaries, or into projets involving technologies/librairies i'm exploring for the first time. For me, every project is a fresh learning adventure.
-
-My repositories are private.
 
 ---
 
@@ -78,3 +76,9 @@ Here's a glimpse of the technologies I've worked with and the tools I use:
 </p>
 
 ---
+### 📊 Notes
+
+My repositories are private.
+My code IS NOT writen/corrected/debugged by AI.
+I have a very deep understading on how to work with AI's, i've developped very good prompting skills specific to how each of my favorites and most-efficients LLM's functions, and with every new LLM's models i keep on adapting/refining/improving these skills.
+Yet, related to my personnal and professional moral compass, i have to master everything i do WITHOUT the use of AI's. I DO NOT use AI's in any way for ANY professional tasks. In both personal and work environments, AI is a tool the developer has to master, manage and correct, not the other way around.
