@@ -6,6 +6,7 @@ I'm a passionate explorer of programming languages and a versatile developer. I 
 From automation, problems-sloving programs, full-stack web development, and broad range of home-made tools, i like to dive into every fields until i clearly understand how it works.
 
 ⚡ **My Coding Philosophy:** I primarily put my energy and mind into projects that push my boundaries, or into projets involving technologies/librairies i'm exploring for the first time. For me, every project is a fresh learning adventure.
+
 My repositories are private.
 
 ---
