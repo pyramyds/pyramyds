@@ -85,4 +85,4 @@ Here's a glimpse of the technologies I've worked with and the tools I use:
     * However, guided by a strong personal and professional moral compass, I am committed to achieving mastery in my work **without the use of AI for core development tasks.**
     * Therefore, you can be assured that **all of my code is conceived, written, corrected, and debugged solely by me.** I do not use AI for any of these processes in my professional engagements.
     * My philosophy is firm: AI should be a tool that developers master, manage, and critically evaluate. It is not, in my view, a substitute for human expertise, problem-solving, or the deep learning that comes from direct engagement with challenges.
-    * Yes, i have used an AI to correct and optimize this README in English to avoid repetitions 😉
+    * Yes, i have used an AI to correct and optimize this README in English 😉
