@@ -3,8 +3,10 @@
 </div>
 
 I'm a passionate explorer of programming languages and a versatile developer. I thrive on tackling new challenges, diving deep into problem-solving, and crafting innovative solutions from scratch.
+From automation, problems-sloving programs, full-stack web development, and broad range of home-made tools, i like to dive into every fields until i clearly understand how it works.
 
-⚡ **My Coding Philosophy:** I primarily dive into projects that push my boundaries and involve technologies I'm exploring for the first time. For me, every project is a fresh learning adventure!
+⚡ **My Coding Philosophy:** I primarily put my energy and mind into projects that push my boundaries, or into projets involving technologies/librairies i'm exploring for the first time. For me, every project is a fresh learning adventure.
+My repositories are private.
 
 ---
 
