@@ -2,23 +2,22 @@
   <h1>Hi there, I'm Pyra 👋</h1>
 </div>
 
-I'm a passionate explorer of programming languages and a versatile developer. I thrive on tackling new challenges, diving deep into problem-solving, and crafting innovative solutions from scratch.
-From automation, problems-sloving programs, full-stack web development, and a broad range of (home-made) tools, i like to dive into every fields until i clearly understand how it works.
+I love checking out different programming languages and I'm pretty flexible as a dev. I really enjoy figuring out tough problems and building new things from the ground up. Whether it's automation, programs to solve specific issues (problem-solving, that is!), full-stack web stuff, or a bunch of my own home-made tools, I like to get my hands dirty in all sorts of areas until I really get how they tick.
 
-⚡ **My Coding Philosophy:** I primarily put my energy and mind into projects that push my boundaries, or into projets involving technologies/librairies i'm exploring for the first time. For me, every project is a fresh learning adventure.
+⚡ **How I See Coding:** I mostly like to work on stuff that’s new to me or uses tech and libraries I haven’t tried before. Basically, every project is a chance to learn something new for me.
 
 ---
 
 ### 🔭 What I'm Up To
 
-* I'm always juggling multiple projects simultaneously, often leveraging different programming languages to broaden my expertise and explore new paradigms.
-* 🌱 I'm continuously deepening my understanding and practical skills, especially in the **C** programming language.
+* I’m usually working on a few different projects at once. I often use different languages for them – it’s a good way to learn more and see different ways of doing things.
+* 🌱 I’m always trying to get better with my coding, especially with **C**.
 
 ---
 
 ### 💻 My Tech Palette
 
-Here's a glimpse of the technologies I've worked with and the tools I use:
+Here’s some of the tech and tools I’ve used:
 
 **Languages:**
 <p align="left">
@@ -76,13 +75,13 @@ Here's a glimpse of the technologies I've worked with and the tools I use:
 </p>
 
 ---
-### 📝 A Note on My Work & Principles
+### 📝 A Bit About How I Work...
 
-* **Repositories:** Please note that my repositories are currently private.
+* **My Repos:** Just a heads-up, my repos are private for now.
 
-* **My Stance on AI in Development:**
-    * I possess a deep understanding of AI systems and have dedicated significant effort to developing advanced prompting skills, tailored to the nuances of various Large Language Models (LLMs). I continuously adapt and refine these abilities as new models and techniques emerge.
-    * However, guided by a strong personal and professional moral compass, I am committed to achieving mastery in my work **without the use of AI for core development tasks.**
-    * Therefore, you can be assured that **all of my code is conceived, written, corrected, and debugged solely by me.** I do not use AI for any of these processes in my professional engagements.
-    * My philosophy is firm: AI should be a tool that developers master, manage, and critically evaluate. It is not, in my view, a substitute for human expertise, problem-solving, or the deep learning that comes from direct engagement with challenges.
-    * Yes, i have used an AI to correct and optimize this README in English 😉
+* **About AI and My Coding:**
+    * So, I know my way around AI pretty well. I've spent a lot of time getting good at prompting different LLMs, and I keep up with new models and how to use them.
+    * But, because of my own ethics (both personal and for work), I really want to master what I do **without using AI for the main coding stuff.**
+    * So, just to be clear: **I think up, write, fix, and debug all my own code.** I don’t use AI for any of that, especially when it comes to professional work.
+    * Here’s what I think: AI is a tool. Developers should be the ones who know how to use it, manage it, and tell if it's doing a good job. It's not supposed to replace real skill, figuring things out yourself, or learning by actually doing the work.
+    * Yes, I have used an AI to correct and optimize this README in English 😉
