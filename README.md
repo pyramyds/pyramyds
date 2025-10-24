@@ -77,7 +77,7 @@ Here’s some of the tech and tools I’ve used:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyramyds&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Pyra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pyramyds&show_icons=false&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs,stars" alt="Pyra's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyramyds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
